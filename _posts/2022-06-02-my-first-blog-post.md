@@ -1,5 +1,5 @@
 ---
-title: "Your blog post title"
+title: "Resume"
 date: 2022-06-2
 ---
 
